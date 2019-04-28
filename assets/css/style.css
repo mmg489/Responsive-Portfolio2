@@ -29,7 +29,7 @@ header {
   left: 0;
   top: 0;
   background: goldenrod;
-  border: 5px solid #0c0a00;
+  border-bottom: 5px solid #0c0a00;
   z-index: 1;
 }
 
