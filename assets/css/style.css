@@ -8,16 +8,19 @@ body {
 }
 h1 {
   color: goldenrod;
+  margin-left: 45px ;
+  font-family: 'Special Elite', cursive;
+}
+h3 {
+  color: goldenrod;
   margin-left: 24px ;
   font-family: 'Special Elite', cursive;
 }
-
 h4 {
-  color:#ffffff;
-  background-color: #4aaaa5;
+  color:goldenrod;
   margin-left: 10px ;
   font-family: 'Special Elite', cursive;
-  text-align: center;
+  text-align: left;
 }
 
 header {
@@ -43,7 +46,7 @@ header {
 }
 
 a {
-  color: black;
+  color: whitesmoke;
   font-family: 'Special Elite', cursive;
 }
 
@@ -185,10 +188,10 @@ float: left;
 .centered {
   background-color:black;
   color: goldenrod;
-  width: 72%;
+  width: 74%;
   position: absolute;
   top: 79%;
-  left:39%;
+  left:40%;
   transform: translate(-50%,-50%);
   padding: 10px 3px;
 }
