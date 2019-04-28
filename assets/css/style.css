@@ -130,9 +130,9 @@ footer {
   left: 0;
   bottom: 0;
   width: 100%;
-  border-top: 5px solid #4aaaa5;
+  border-top: 5px solid black;
   padding: 20px;
-  background: black;
+  background: goldenrod;
 }
   
 input[type=text], select, textarea {
