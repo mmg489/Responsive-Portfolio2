@@ -98,13 +98,12 @@ img {
   left:150px; 
   top:100px;
   width: 960px;
-  height:500px;
+  height:600px;
   padding:20px;
-  border: 1px solid #cccccc;
+  border: 10px solid goldenrod;
   overflow: auto;
   clear: both;
-  color: #777777;
-  background: #ffffff;
+  background: black;
 }
 
 #portfoliobox {
@@ -114,7 +113,7 @@ img {
   width: 960px;
   height:600px;
   padding:20px;
-  border: 5px solid goldenrod;
+  border: 10px solid goldenrod;
   overflow: auto;
   clear: both;
   background-color:black;
