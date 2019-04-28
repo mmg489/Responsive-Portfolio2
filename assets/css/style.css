@@ -12,7 +12,7 @@ h1 {
   font-family: 'Special Elite', cursive;
 }
 h3 {
-  color: goldenrod;
+  color: whitesmoke;
   margin-left: 24px ;
   font-family: 'Special Elite', cursive;
 }
@@ -76,11 +76,17 @@ img {
   height:250px;
   width:250px;
 }
+#two {
+  float: right;
+  padding: 10px;
+  height:200px;
+  width:200px;
+}
 
 #about {
   position: relative; 
   left:150px; 
-  top:100px;
+  top:75px;
   width: 960px;
   height:500px;
   padding:20px;
@@ -96,7 +102,7 @@ img {
 #contactbox {   
   position: relative; 
   left:150px; 
-  top:100px;
+  top:75px;
   width: 960px;
   height:600px;
   padding:20px;
@@ -109,7 +115,7 @@ img {
 #portfoliobox {
   position: relative; 
   left:150px; 
-  top:100px;
+  top:75px;
   width: 960px;
   height:600px;
   padding:20px;
@@ -197,10 +203,10 @@ float: left;
 .centered2 {
   background-color:black;
   color: goldenrod;
-  width: 60%;
+  width: 75%;
   position: absolute;
   top: 100%;
-  left:30%;
+  left:70%;
   transform: translate(-50%,-50%);
   padding: 5px 1px;
 }
