@@ -172,6 +172,16 @@ width:35%;
 float: left;
 }
 
+.img-container4{
+  margin-top:50px;
+  position:relative;
+  float:left;
+  text-align: center;
+  color:white;
+  width:35%;
+  float: left;
+  }
+
 .centered {
   background-color:black;
   color: goldenrod;
@@ -181,6 +191,16 @@ float: left;
   left:39%;
   transform: translate(-50%,-50%);
   padding: 10px 3px;
+}
+.centered2 {
+  background-color:black;
+  color: goldenrod;
+  width: 60%;
+  position: absolute;
+  top: 100%;
+  left:30%;
+  transform: translate(-50%,-50%);
+  padding: 5px 1px;
 }
 @media screen and (max-width:980px) {
   #about {  
