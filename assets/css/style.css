@@ -7,12 +7,12 @@ body {
   font-family: 'Special Elite', cursive;
 }
 h1 {
-  color: goldenrod;
+  color: hotpink;
   margin-left: 45px ;
   font-family: 'Special Elite', cursive;
 }
 h2 {
-  color: goldenrod;
+  color: hotpink;
   margin-left: 12px ;
   font-family: 'Special Elite', cursive;
 }
@@ -22,7 +22,7 @@ h3 {
   font-family: 'Special Elite', cursive;
 }
 h4 {
-  color:goldenrod;
+  color:hotpink;
   margin-left: 10px ;
   font-family: 'Special Elite', cursive;
   text-align: left;
@@ -33,7 +33,7 @@ header {
   width:100%;
   left: 0;
   top: 0;
-  background: goldenrod;
+  background: black;
   border: 1px solid #0c0a00;
   z-index: 1;
 }
@@ -47,7 +47,7 @@ header {
   font-family: 'Special Elite', cursive;
   font-size:24px;
   background:black;
-  color: goldenrod;
+  color: hotpink;
 }
 
 a {
@@ -90,17 +90,18 @@ img {
 
 #about {
   position: relative; 
+  float:center;
   left:150px; 
   top:75px;
   width: 960px;
-  height:500px;
-  padding:20px;
+  height:650px;
+  padding:60px;
   border: 10px solid #cccccc;
   overflow: auto;
   clear: both;
-  color: goldenrod;
+  color: hotpink;
   background: black;
-  border-color:goldenrod;
+  border-color:hotpink;
   opacity: 1;
 }
 
@@ -111,7 +112,7 @@ img {
   width: 960px;
   height:600px;
   padding:20px;
-  border: 10px solid goldenrod;
+  border: 10px solid hotpink;
   overflow: auto;
   clear: both;
   background: black;
@@ -124,7 +125,7 @@ img {
   width: 960px;
   height:600px;
   padding:20px;
-  border: 10px solid goldenrod;
+  border: 10px solid hotpink;
   overflow: auto;
   clear: both;
   background-color:black;
@@ -145,7 +146,7 @@ footer {
   width: 100%;
   border-top: 1px solid black;
   padding: 20px;
-  background: goldenrod;
+  background: hotpink;
 }
   
 input[type=text], select, textarea {
@@ -162,7 +163,7 @@ input[type=text], select, textarea {
 
 input[type=submit] {
   background-color: black;
-  color: goldenrod;
+  color: hotpink;
   font-family: 'Special Elite', cursive;
   padding: 12px 20px;
   border: none;
@@ -197,7 +198,7 @@ float: left;
 
 .centered {
   background-color:black;
-  color: goldenrod;
+  color: hotpink;
   width: 74%;
   position: absolute;
   top: 79%;
@@ -207,7 +208,7 @@ float: left;
 }
 .centered2 {
   background-color:black;
-  color: goldenrod;
+  color: hotpink;
   width: 75%;
   position: absolute;
   top: 100%;
